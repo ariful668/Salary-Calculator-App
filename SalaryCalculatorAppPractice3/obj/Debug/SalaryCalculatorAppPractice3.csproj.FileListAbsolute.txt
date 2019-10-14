@@ -1,0 +1,10 @@
+C:\Users\arifu\OneDrive\Desktop\Assignment\SalaryCalculatorAppPractice3-master\SalaryCalculatorAppPractice3\bin\Debug\SalaryCalculatorAppPractice3.exe.config
+C:\Users\arifu\OneDrive\Desktop\Assignment\SalaryCalculatorAppPractice3-master\SalaryCalculatorAppPractice3\bin\Debug\SalaryCalculatorAppPractice3.exe
+C:\Users\arifu\OneDrive\Desktop\Assignment\SalaryCalculatorAppPractice3-master\SalaryCalculatorAppPractice3\bin\Debug\SalaryCalculatorAppPractice3.pdb
+C:\Users\arifu\OneDrive\Desktop\Assignment\SalaryCalculatorAppPractice3-master\SalaryCalculatorAppPractice3\obj\Debug\SalaryCalculatorAppPractice3.csprojAssemblyReference.cache
+C:\Users\arifu\OneDrive\Desktop\Assignment\SalaryCalculatorAppPractice3-master\SalaryCalculatorAppPractice3\obj\Debug\SalaryCalculatorAppPractice3.Properties.Resources.resources
+C:\Users\arifu\OneDrive\Desktop\Assignment\SalaryCalculatorAppPractice3-master\SalaryCalculatorAppPractice3\obj\Debug\SalaryCalculatorAppPractice3.SalaryCalculatorUi.resources
+C:\Users\arifu\OneDrive\Desktop\Assignment\SalaryCalculatorAppPractice3-master\SalaryCalculatorAppPractice3\obj\Debug\SalaryCalculatorAppPractice3.csproj.GenerateResource.cache
+C:\Users\arifu\OneDrive\Desktop\Assignment\SalaryCalculatorAppPractice3-master\SalaryCalculatorAppPractice3\obj\Debug\SalaryCalculatorAppPractice3.csproj.CoreCompileInputs.cache
+C:\Users\arifu\OneDrive\Desktop\Assignment\SalaryCalculatorAppPractice3-master\SalaryCalculatorAppPractice3\obj\Debug\SalaryCalculatorAppPractice3.exe
+C:\Users\arifu\OneDrive\Desktop\Assignment\SalaryCalculatorAppPractice3-master\SalaryCalculatorAppPractice3\obj\Debug\SalaryCalculatorAppPractice3.pdb
